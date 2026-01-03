@@ -2,7 +2,7 @@
 
 An over-engineered terminal snake game built with Rust and Ratatui.
 
-![Demo](demo/demo.gif)
+![Demo](demo/demo2.gif)
 
 ## What Makes It Cool
 
@@ -13,7 +13,9 @@ This isn't your regular snake game. It features:
 - **Moving Food** - Food spawns from screen edges and moves across the field
 - **Dangerous Food** - If food hits your body (not head), it cuts your snake
 
-![Gameplay Demo](demo/demo2.gif)
+### Before
+
+![Old Demo](demo/demo.gif)
 
 ## Build
 
