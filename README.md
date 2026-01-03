@@ -2,6 +2,8 @@
 
 Terminal snake game built with Rust and Ratatui.
 
+![Demo](demo/demo.gif)
+
 ## Build
 
 ```
