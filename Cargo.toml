@@ -1,5 +1,5 @@
 [package]
-name = "not-cool-snake"
+name = "cool-snake"
 version = "0.1.0"
 edition = "2021"
 
@@ -8,3 +8,9 @@ color-eyre = "0.6"
 crossterm = "0.29"
 ratatui = "0.30"
 rand = "0.9"
+clap = { version = "4", features = ["derive"] }
+
+[lints.clippy]
+unwrap_used = "deny"
+expect_used = "deny"
+panic = "deny"
